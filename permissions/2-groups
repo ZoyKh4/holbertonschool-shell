@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp groups ./2-groups
+su student_jail -c ./2-groups
