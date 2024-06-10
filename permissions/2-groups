@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 
+chgrp groups ./2-groups
